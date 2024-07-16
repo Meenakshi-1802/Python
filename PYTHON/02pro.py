@@ -1,3 +1,2 @@
-#print output
-print("My name is Meenakshi.")
-print("My age is 21")
+print("my name is meenakshi")
+print
