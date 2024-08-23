@@ -18,9 +18,9 @@ while i < 6:
 #continue to the next iteration if i is 3:
 i = 0
 while i < 6:
-i += 1
+ i += 1
 if i == 3:
- continue#note the number 3 is mising in the result
+   'continue'  #note the number 3 is mising in the result
 
 print(i)
 
