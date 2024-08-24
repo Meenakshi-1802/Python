@@ -45,7 +45,7 @@ x = int(input("enter first number:"))
 y = int(input("enter second number:"))
 print("x",x,"  y",y,sep ="")
 
-#temp = x
+temp = x
 x = y
 y = temp
 
